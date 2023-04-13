@@ -34,7 +34,7 @@
   align-items: center;
 }
 .quiz-body {
-  width: 350px;
+  width: 300px;
   height: 250px;
 }
 .option-block-container {
@@ -117,7 +117,7 @@ p{
 
 }
 #next{
-  margin-left: 50%;
+  margin-left: 45%;
 }
 #backbtn{
   margin-left: 40%;
